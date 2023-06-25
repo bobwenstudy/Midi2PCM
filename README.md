@@ -65,11 +65,9 @@ make all
 
 参考zephyr，对生成的elf进行分析，最终会生成ram.json和rom.json。这两个文件也可以导入到nordic的vscode环境下，可以借助其图形化工具进行分析。
 
-从rom_report可以看出，math和基本的库用了32KB，项目本身需要12KB左右。
-
 ![image-20221125112930355](https://markdown-1306347444.cos.ap-shanghai.myqcloud.com/img/image-20221125112930355.png)
 
-![image-20230625142915877](C:/Users/wenbo/AppData/Roaming/Typora/typora-user-images/image-20230625142915877.png)
+
 
 
 
